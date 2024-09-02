@@ -1,0 +1,5 @@
+etag: CJrdsrUGXXXXXX
+name: organizations/1056XXXXX/policies/iam.disableServiceAccountKeyCreation
+spec:
+  rules:
+  - enforce: false
